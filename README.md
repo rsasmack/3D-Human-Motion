@@ -67,7 +67,7 @@ For the custom dataset, the file directory should look like HumanML3D directory 
 
 These datasets can be found on the AMASS dataset repository [AMASS](https://amass.is.tue.mpg.de/) and should be downloaded and placed in the data directory within your project structure. For additional information, please refer to [HumanML3D](https://github.com/EricGuo5513/HumanML3D)
 
-Once HumanML3D is generated, you can run the text to numpy mapping file (`npy_text_mapping_v1.ipynb1`) to generate predefined labels from text descriptions. Post that, you can generate sampled datasets based on custom percentage of motions from datasets which is implemented in `TRME_preprocess_sampling.ipynb` file.
+Once HumanML3D is generated, you can run the text to numpy mapping file (`npy_text_mapping_v1.ipynb`) to generate predefined labels from text descriptions. Post that, you can generate sampled datasets based on custom percentage of motions from datasets which is implemented in `TRME_preprocess_sampling.ipynb` file.
 
 ## Training with TRME
 To train the model:
