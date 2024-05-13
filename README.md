@@ -1,4 +1,4 @@
-# 3D-Human-Motion Generation
+# 3D Human Motion Generation
 
 # Text Residual Motion Encoder for 3D Human Motion Generation
 
