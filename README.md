@@ -4,6 +4,8 @@
 
 ![teaser_image](https://github.com/rsasmack/3D-Human-Motion/blob/main/motions.png)
 
+**Research Paper:** [Text Residual Motion Encoder for 3D Human Motion Generation](https://www.researchgate.net/publication/380749186_Text_Residual_Motion_Encoder_for_3D_Human_Motion_Generation)
+
 
 ## Table of Contents
 
